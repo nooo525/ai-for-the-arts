@@ -42,19 +42,19 @@ By the end of this portfolio, a reader should be able to see how I:
 
 This section gives a quick overview of the main files and how they fit together.  
 
-- **`<coding_exercises>.ipynb`**  
+- **`coding_exercises.ipynb`**  
   Simple Python exercises (printing, variables, lists, loops, functions).  
   I use markdown cells to explain what each block of code is doing and occasionally rewrite it in plain English.  
   The goal is to show that I can *read* code and talk through it, not just run it.
 
-- **`<Machine-Learning-by-Example-from-Start-to-End.ipynb>.ipynb`**  
+- **`Machine-Learning-by-Example-from-Start-to-End.ipynb`**  
   A walkthrough of a complete machine learning workflow. 
   I focus on:
   - what happens at each stage (data, splitting, training, evaluation),  
   - how to interpret the output in words,  
   - what kinds of mistakes or biases might appear in this kind of model.
 
-- **`<Part4_LLM_Design>.ipynb`**  
+- **`Part4_LLM_Design.ipynb`**  
   A small design concept using a large language model (LLM).  
   Here I outline:
   - the imagined user and scenario,  
@@ -62,10 +62,15 @@ This section gives a quick overview of the main files and how they fit together.
   - what the risks are and how we might reduce them.
 
 ### 2. Media and other files
+Detailed attribution and licensing information for the audio and image files is provided in the relevant notebooks.
 
 - **`audio1.mid`** and **`audio2.ogg`**  
   Audio files used in the notebooks to experiment with loading and playing media in Jupyter, and to
   think about how “media as data” can be processed by code.
+  
+- **`datasets/`**
+  Tabular datasets used in the machine-learning notebook (for example the housing data from the lab materials).  
+  These are included so that the notebooks can be run reproducibly from this repository.
 
 - **`picture1.jpg`**  
   An image used as a simple example for displaying or processing visual media.
