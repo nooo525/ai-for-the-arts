@@ -1,7 +1,7 @@
 # Artificial Intelligence for the Arts & Humanities (A) Portfolio
 **Course:** AI for the Arts and Humanities (A)  
 **Academic year:** 2025–26  
-**Student GUID:** 2090319
+**Student GUID:** 2909319
 
 ## About this repository
 This repository contains my portfolio for the course *AI for the Arts and Humanities (A)*.  
